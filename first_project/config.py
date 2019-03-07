@@ -1,0 +1,5 @@
+username = 'apoorv.sv69@gmail.com'
+password = 'i7CRo6q2B4Ngn3L5W'
+authorization = 'https://sandbox-authservice.priaid.ch/login'
+health = 'https://sandbox-healthservice.priaid.ch'
+language = 'en-gb'
